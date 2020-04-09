@@ -7,13 +7,12 @@ In this project, we use RDD (Resilient Distributed Datasets), a fault-tolerant c
   
 **To Run The Code:**  
   
-The JSON file input file from Coursera is converted into tabular form (CSV):  
+* The JSON file input file from Coursera is converted into tabular form (CSV):  
 Run _"python getSchemaToCSV.py"._  
-Distributed processing on Hadoop cluster using pySpark-  
+* Distributed processing on Hadoop cluster using pySpark-  
 Run _"spark-submit Scripts/SparkAnalyze_Browser_&_Device.py"_  
-Run _"spark-submit /Scripts/SparkAnalyze_Language_&_ActiveUsers.py"_  
-  
-*Visualization using matplotlib:*  
+Run _"spark-submit /Scripts/SparkAnalyze_Language_&_ActiveUsers.py"_    
+* Visualization using matplotlib:  
 Run _"python PlotAnalytics.py"_  
   
 **RESULTS**
