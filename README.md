@@ -1,4 +1,4 @@
-<h2>Big Data Analytics on Coursera Clickstream
+# Big Data Analytics on Coursera Clickstream
   
   
 Data never stops. Over 2.5 quintillion bytes of data are generated every day. Organizations need to analyze and understand this data and enabling themselves efficiently handling operations better.  
