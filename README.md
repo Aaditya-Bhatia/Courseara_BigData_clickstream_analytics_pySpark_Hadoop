@@ -18,13 +18,12 @@ Run _"python PlotAnalytics.py"_
   
 **RESULTS**
   
-* Top Device Count:
-![device](https://github.com/Aaditya-Bhatia/Courseara_BigData_clickstream_analytics_pySpark_Hadoop/blob/master/Analytics/Plots/Device.png)
-  
-* The top most browsers used at the coursera course are:
+* The top most browsers used at the coursera course are:  
 ![browser](https://github.com/Aaditya-Bhatia/Courseara_BigData_clickstream_analytics_pySpark_Hadoop/blob/master/Analytics/Plots/Browser.png)
   
-* Cumulative Distributive function for Activity at the course:
+![language](https://github.com/Aaditya-Bhatia/Courseara_BigData_clickstream_analytics_pySpark_Hadoop/blob/master/Analytics/Plots/Language.png)
+  
+* Cumulative Distributive function for Activity at the course:  
 ![CDF_Activity_Count](https://github.com/Aaditya-Bhatia/Courseara_BigData_clickstream_analytics_pySpark_Hadoop/blob/master/Analytics/Plots/ActivityCount.png)
   
   
