@@ -4,6 +4,7 @@
 Data never stops. Over 2.5 quintillion bytes of data are generated every day. Organizations need to analyze and understand this data and enabling themselves efficiently handling operations better.  
 This project leverages the distributed processing capabilities of the Hadoop ecosystem to perform analytics on massive data in parallel. Users perform millions of actions (i.e., millions of clicks on the course page) while working on courses in online MOOCs like Coursera. Analyzing such massive clickstream helps MOOC providers in understanding their users better, enabling them efficiently handling operations to better manage user needs.  
 In this project, we use RDD (Resilient Distributed Datasets), a fault-tolerant collection of elements. RDD's operate in parallel over the Hadoop cluster.  
+More info about this project can be found at [https://docs.google.com/document/d/1nKDgLXtzPA1fhgT-aTa_xz-SHMogY0ruswO3vPpKGjs/edit?usp=sharing]  
   
 **To Run The Code:**  
   
